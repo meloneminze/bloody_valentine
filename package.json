@@ -1,0 +1,23 @@
+{
+  "name": "bloody_valentine",
+  "version": "1.0.0",
+  "description": "Agency for valentine events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meloneminze/bloody_valentine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meloneminze/bloody_valentine/issues"
+  },
+  "homepage": "https://github.com/meloneminze/bloody_valentine#readme",
+  "dependencies": {
+    "htmlhint": "^0.11.0",
+    "prettier": "^1.19.1"
+  }
+}
